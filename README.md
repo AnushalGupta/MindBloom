@@ -1,7 +1,7 @@
 <div align="center">
 
   
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=22&lines=WORK+IN+PROGRESS+.............+;Still+Working+on+this+!!!)](https://github.com/CP-BOTS/Url-uploader)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=22&lines=WORK+IN+PROGRESS+.............+;Still+Working+on+this+!!!)](https://github.com/CP-BOTS/Url-uploader)
 
 </div>
 
