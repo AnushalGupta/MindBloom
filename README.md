@@ -1,3 +1,10 @@
+<div align="center">
+
+#  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=22&lines=WORK+IN+PROGRESS+.............+;Still+Working+on+this+!!!)](https://github.com/CP-BOTS/Url-uploader)
+
+</div>
+
 # 🌸 Mindbloom - AI Mental Health Companion
 
 Mindbloom is a comprehensive mental health and wellness application designed to help users track their mood, manage stress, and build healthy habits. It features an AI-powered empathetic chatbot, detailed analytics, and interactive wellness tools.
